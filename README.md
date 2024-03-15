@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Vela Pasillas
 ===========================================================================================================================================
 
-Recent CS grad with strong Interest in Software and Web Development
+Recent CS grad with strong Interest in Software and Web Development 🎓📚💻
 
 * 🌍  I'm based in Sacramento, California
 * ✉️  You can contact me at [velapasillasbrian@gmail.com](mailto:velapasillasbrian@gmail.com)
@@ -27,7 +27,7 @@ Recent CS grad with strong Interest in Software and Web Development
 
 <br />
 
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/brianvelapasillas"><img src="https://github-readme-stats.vercel.app/api?username=brianvelapasillas&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="brianvelapasillas's GitHub stats" /></a>
 
@@ -35,7 +35,7 @@ Recent CS grad with strong Interest in Software and Web Development
 
 <a href="https://github.com/brianvelapasillas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianvelapasillas&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+### Top Repositories
 
 <div width="100%" align="center"><a href="https://github.com/brianvelapasillas/MERN-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=brianvelapasillas&repo=MERN-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/brianvelapasillas/Library-website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=brianvelapasillas&repo=Library-website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
