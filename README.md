@@ -16,3 +16,11 @@ Computer Science grad from CSU Sacramento with a talent for turning ideas into r
 - **Bilingual:** English, Spanish.
 ---
 Looking for the next challenge where I can contribute, grow, and make an impact. Let's connect! Feel free to reach out via [email](mailto:velapasillasbrian@gmail.com) or through [LinkedIn](https://www.linkedin.com/in/bvelacomputersci/).
+
+## 💡 Projects & Skills
+- **Tech Leadership**: From websites for educational reforms to engaging video games, my projects speak volumes.
+- **Coding & Beyond**: Proficient in C++, Java, Python, and web tech. Bilingual in English and Spanish.
+
+## 🌟 Highlights
+- Award-winning scholar & active community member in tech.
+- Thrived in roles requiring top-notch customer service and project management.
