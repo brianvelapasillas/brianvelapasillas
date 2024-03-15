@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bvelacomputersci-blue)](https://www.linkedin.com/in/bvelacomputersci/)
 📧 [Email](mailto:velapasillasbrian@gmail.com)
----
+
 
 ## 🚀 Quick Intro
 Computer Science grad from CSU Sacramento with a talent for turning ideas into reality. Passionate about web development, I've led projects that simplify and innovate.
