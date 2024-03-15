@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bvelacomputersci-blue)](https://www.linkedin.com/in/bvelacomputersci/)
+
 📧 [Email](mailto:velapasillasbrian@gmail.com)
+---
 
 
 ## 🚀 Quick Intro
