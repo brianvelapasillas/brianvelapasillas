@@ -48,5 +48,5 @@ Recent CS grad with strong Interest in Software and Web Development 🎓📚💻
 
 
 ### ✍️ Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
 
