@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Vela Pasillas
 ===========================================================================================================================================
 
-Recent CS grad with strong Interest in Software and Web Development
+Recent Computer Science grad with strong Interest in Software and Web Development 🎓📚💻
 
 * 🌍  I'm based in Sacramento, California
 * ✉️  You can contact me at [velapasillasbrian@gmail.com](mailto:velapasillasbrian@gmail.com)
