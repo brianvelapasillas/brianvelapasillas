@@ -2,8 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bvelacomputersci-blue)](https://www.linkedin.com/in/bvelacomputersci/)
 
-## 👋 Introduction
-Hi there! I'm Brian, a recent Computer Science graduate from California State University, Sacramento, with a passion for software development, project management, and enhancing user experiences. My journey in tech is highlighted by my hands-on projects and roles that have allowed me to refine my skills in programming, teamwork, and leadership. I'm eager to contribute to innovative projects and make a significant impact in the tech world.
+## 🚀 Quick Intro
+Computer Science grad from CSU Sacramento with a talent for turning ideas into reality. Passionate about web development, I've led projects that simplify and innovate.
 
 ## 📚 Education
 - **Bachelor of Science in Computer Science** - California State University, Sacramento (Dec 2023)
