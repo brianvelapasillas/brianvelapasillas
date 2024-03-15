@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bvelacomputersci-blue)](https://www.linkedin.com/in/bvelacomputersci/)
+📧 [Email](mailto:velapasillasbrian@gmail.com)
+---
 
 ## 🚀 Quick Intro
 Computer Science grad from CSU Sacramento with a talent for turning ideas into reality. Passionate about web development, I've led projects that simplify and innovate.
@@ -54,16 +56,6 @@ Let's connect! Feel free to reach out via [email](mailto:velapasillasbrian@gmail
 
 
 
-
-
-# Brian Vela Pasillas
-
-🌐 [LinkedIn](https://www.linkedin.com/in/bvelacomputersci/) | 📧 [Email](mailto:velapasillasbrian@gmail.com)
-
----
-
-### About Me
-🎓 **CS Grad** from CSU Sacramento with a 3.6 GPA. I'm all about creating, solving, and innovating. I've got a knack for turning complex problems into simple solutions and love making technology work for people.
 
 ### What I've Done
 - 📞 **Student Ambassador**: Mastered the art of customer service at CSUS.
